@@ -1,0 +1,7 @@
+### ¿Por qué los puntos de intercambio reducen la latencia?
+Los IXP reducen la latencia porque permiten qen directamenteue dos redes se conect en un punto local, en vez de enviar el tráfico por proveedores intermedios, a veces hasta otro país. 
+
+|             | switch 2                                                                                                     | switch 3                                                                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| ¿Que son?   | Dispositivo de red que conecta equipos dentro de una red LAN y permite la comunicación entre ellos.          | Dispositivo de red que conecta equipos dentro de una red LAN y permite la comunicación entre ellos.                                        |
+| Diferencias | Generalmente se refiere a un switch de 2 capas (Layer 2), que trabaja con direcciones MAC para enviar datos. | Generalmente se refiere a un switch de 3 capas (Layer 3), que trabaja con direcciones MAC e IP y puede realizar funciones de enrutamiento. |
