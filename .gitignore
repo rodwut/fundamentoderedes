@@ -1,0 +1,11 @@
+# Copia duplicada del repositorio (no subir)
+fundamentoderedes/
+
+# Configuracion local de Obsidian
+.obsidian/workspace*.json
+.trash/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
