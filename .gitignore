@@ -1,11 +1,22 @@
-# Copia duplicada del repositorio (no subir)
+# Este repositorio solo guarda las actividades.
+
+# Copia duplicada del repositorio
 fundamentoderedes/
 
-# Configuracion local de Obsidian
-.obsidian/workspace*.json
-.trash/
+# Notas, tareas y otros archivos (se quedan solo en la PC)
+**/Notas de clase/
+**/Tareas/
+Biografias/
+README.md
 
-# Sistema
+# Media: solo lo que usan las actividades
+Media/*
+!Media/Actividad3.1.png
+!Media/Excalidraw/
+
+# Obsidian y sistema
+.obsidian/
+.trash/
 .DS_Store
 Thumbs.db
 desktop.ini
